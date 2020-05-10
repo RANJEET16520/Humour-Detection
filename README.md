@@ -1,1 +1,2 @@
 # Humour-Detection
+Humor detection has an important role in applications like a chatbot, human-machine interaction. In this project, I used the Yelp business review dataset wherein each review has a weighted tag 'funny'. The dataset being crowd annotated is of high quality for the task of humor detection. Each review is tokenized followed by generating word vectors using word2vec. The resulting word vectors are used as input to the Convolutional Neural Network and Long Short Term Memory network. The LSTM had a high performance at the expense of training time.
