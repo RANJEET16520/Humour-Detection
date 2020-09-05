@@ -18,7 +18,7 @@ python 3
 
 pip3 
 
-Google Collab
+Google Colab
 ```
 
 ### Publication
