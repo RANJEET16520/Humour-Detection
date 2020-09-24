@@ -33,7 +33,7 @@ Google Colab
 
 [Ranjeet Walia](https://github.com/RANJEET16520)
 
-[Shivam Sharma](https://github.com/RANJEET16520)
+[Shivam Sharma](https://github.com/shiv-7)
 
 
 
